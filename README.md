@@ -1,1 +1,1 @@
-"# stock-market-prediction-using-twitter-sentiment-analysis" 
+## stock-market-prediction-using-twitter-sentiment-analysis
